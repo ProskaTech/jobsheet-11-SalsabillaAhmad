@@ -1,5 +1,4 @@
-## Object-oriented Programming (Lab Work) Template Guides
-1. Silakan anda upload file java hasil praktikum anda menggunakan NetBeans atau IDE/text editor lainnya dengan mengupload button ADD FILE
-2. Upload juga screenshot hasil latihan dan tugas anda dalam format .JPG atau .JPEG atau .PNG
-3. Setiap file java anda diharuskan untuk memiliki identitas anda dengan menggunakan komentar dengan format berikut "Created by NIM_Nama Lengkap" pada bagian paling atas setiap code anda. contoh: // Created by 1203232_Randi Proska Sandra
-4. Silakan anda edit file README.md ini dengan identitas anda juga serta berikan penjelasan terkait source code yang anda upload. Catatan: Jangan ubah nama file README.md
+Nama : Salsabilla Ahmad
+NIM  : 21343072
+Pada pertemuan Jobsheet 11, disini kita membahas mengenai konsep Inheritance dan Encapsulation, bisa kita ketahui Inheritance atau dikenaal dengan pewarisan adalah mekanisme mendasarkan objek atau kelas pada objek atau kelas lain, mempertahankan implementasi serupa. Juga didefinisikan sebagai menurunkan kelas baru dari yang sudah ada seperti kelas super atau kelas dasar dan kemudian membentuknya menjadi hierarki kelas. sedangkan Encapsulation sendiri mengacu pada bundling data dengan metode yang beroperasi pada data tersebut, atau pembatasan akses langsung ke beberapa komponen objek.
+Nah dengan Inheritance ini Subclass akan mirip dengan superclass, namun dia memiliki karakteristik yang berbeda sesuai dengan statement extends nya. dengan itu kita dapat dipermudah dengan adanaya inheritance dan encapsulation tersebut
